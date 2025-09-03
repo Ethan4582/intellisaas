@@ -1,10 +1,10 @@
 # AI Content Studio - Your All-in-One Creative Toolkit
 
-![AI Content Studio](./public/img1.png)
+![AI Content Studio](./client/public/img1.png)
 
 ## 🎬 Demo
 
-[![Watch Demo](./public/img2.png)](https://www.youtube.com/watch?v=your-demo-video-id)
+[![Watch Demo](./client/public/img2.png)](https://www.youtube.com/watch?v=your-demo-video-id)
 
 *Click the image above to watch our full feature demo*
 
